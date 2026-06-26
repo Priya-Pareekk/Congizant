@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.19.10-hotspot\\bin;${env:PATH}"
+  }
+}
